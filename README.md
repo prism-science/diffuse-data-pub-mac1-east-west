@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/1334575593.svg)](https://doi.org/10.5281/zenodo.23487904)
+
 # Raw X-ray diffraction data for apo Mac1 (`mac1-east-west`)
 
 This repository contains the raw diffraction images used to produce the diffuse scattering maps of apo Mac1 (SARS-CoV-2 nsp3 macrodomain) reported in:
